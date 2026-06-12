@@ -118,7 +118,7 @@ Currently pursuing an MSc in Applied Mathematics
 Research Interests:
 - Quantitative Finance
 - Mathematical Modelling
-- Financial data analytics
+- Financial Data Analytics
 - Machine Learning
 
 Aspiring Quantitative Analyst | Applied Mathematics Researcher
