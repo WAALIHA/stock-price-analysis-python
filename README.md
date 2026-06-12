@@ -110,7 +110,15 @@ The model closely tracked actual Apple stock prices, demonstrating basic predict
 Waaliha Bux
 
 BSc Mathematics & Physics (Cum Laude)
+
 BSc Honours Mathematics (Cum Laude)
-Currently pursuing an MSc in Applied Mathematics with research interests in mathematical modelling, quantitative analysis, and financial data analytics.
+
+Currently pursuing an MSc in Applied Mathematics
+
+Research Interests:
+- Quantitative Finance
+- Mathematical Modelling
+- Financial data analytics
+- Machine Learning
 
 Aspiring Quantitative Analyst | Applied Mathematics Researcher
